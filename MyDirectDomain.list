@@ -1,0 +1,25 @@
+# MyDirectDomainList, 列出需要直连的IP，直连的端口，直连的域名
+
+# IP
+IP-CIDR,45.78.17.247/32
+# aw-bwg-24
+IP-CIDR,23.105.203.155/32
+# aw-cc-15
+IP-CIDR,199.255.96.209/32
+# aw-rn-10
+IP-CIDR,107.172.96.145/32
+
+# Port
+# DST-PORT,29962
+
+# Domain
+DOMAIN-SUFFIX,liyu2022.eu.org
+DOMAIN-SUFFIX,liyu1024.tk
+DOMAIN-SUFFIX,liyu1024.eu.org
+DOMAIN-SUFFIX,976321.xyz
+DOMAIN-SUFFIX,976321.eu.org
+DOMAIN-SUFFIX,9763.link
+DOMAIN-SUFFIX,9763.cf
+DOMAIN-SUFFIX,9763.eu.org
+DOMAIN-SUFFIX,onenew.link
+DOMAIN-SUFFIX,dearlovertech.com

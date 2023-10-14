@@ -1,0 +1,13 @@
+# MyFixList, 走固定ip的域名，ip等
+DOMAIN-SUFFIX,sd.976321.xyz
+DOMAIN-SUFFIX,sd.9763.ml
+DOMAIN-SUFFIX,gzgpt.dearlovertech.com
+DOMAIN-SUFFIX,jenkins.dearlovertech.com
+DOMAIN-SUFFIX,v2-cc.liyu2022.eu.org
+
+# gzgpt.dearlovertech.com
+IP-CIDR,45.77.47.153/32
+# jenkins.dearlovertech.com
+IP-CIDR,47.97.109.44/32
+# v2board-cc
+IP-CIDR,216.240.134.17/32
